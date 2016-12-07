@@ -1,4 +1,5 @@
-# CartaForbiceSasso
+# Rock, Paper, Scissor
+# Learning Java with exercises
 
 Java application for a battle of rock, paper, scissor.
 
